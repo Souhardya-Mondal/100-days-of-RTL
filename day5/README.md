@@ -1,5 +1,5 @@
-Day 5
-Design and verify an 8-bit odd counter
+## Day 5
+## Design and verify an 8-bit odd counter
 
 ## Interface Definition
 - Counter should reset to a value of 8'h1
